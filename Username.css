@@ -1,0 +1,52 @@
+body {
+	background: #0078D7;
+}
+
+.center {
+	margin: 0 auto;
+	width: 900px;
+	height: 500px;
+	background: #FFFFFF;
+	padding: 10px;
+}
+
+.logout {
+	float: right;
+	background:#135995;
+	margin-bottom:5px;
+}
+
+
+.logout a {
+  float: right;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.logout a:hover {
+  background-color: #1ABB9C;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.main {
+	float: right;
+	width: 100%;
+	margin-bottom: 5px;
+}
